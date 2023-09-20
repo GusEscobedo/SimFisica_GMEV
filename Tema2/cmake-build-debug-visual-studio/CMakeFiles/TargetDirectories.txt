@@ -1,3 +1,0 @@
-C:/Users/Alumnos/Desktop/SimuladoresDeFisica/Tema2/cmake-build-debug-visual-studio/CMakeFiles/Tema2.dir
-C:/Users/Alumnos/Desktop/SimuladoresDeFisica/Tema2/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
-C:/Users/Alumnos/Desktop/SimuladoresDeFisica/Tema2/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
