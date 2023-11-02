@@ -1,0 +1,3 @@
+C:/Users/Lola/Desktop/SimuladoresFisica/Bullet_SFML/cmake-build-debug-visual-studio/CMakeFiles/Bullet_SFML.dir
+C:/Users/Lola/Desktop/SimuladoresFisica/Bullet_SFML/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/Lola/Desktop/SimuladoresFisica/Bullet_SFML/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
